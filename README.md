@@ -11,7 +11,6 @@
 I am Android developer by passion and graphic designer by hobby. I love programming, designing and eploring new tech.
 
 As a software engineer I love to solve a problem that make our life easier and well as interactive and fun. 
-Some of the work i have done can be found in the link given below.
 
 - 🔭 I’m currently working on Taskmo B2B Gig Marketplace
 - 🌱 I’m currently learning Data structure and Jetpack Compose
