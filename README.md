@@ -1,6 +1,6 @@
 ### Hi there👋 , I'm Bishal Singh
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Magneto3572&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 I am Android developer by passion and graphic designer by hobby. I love programming, designing and eploring new tech.
 
