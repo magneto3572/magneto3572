@@ -8,7 +8,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Singh3572)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/logo.redefined/)
 
-I am Android developer by passion and graphic designer by hobby. I love programming, designing and eploring new tech.
+I am Android developer by passion and graphic designer by hobby. I love programming, designing and exploring new tech.
 
 As a software engineer I love to solve a problem that make our life easier and well as interactive and fun. 
 
