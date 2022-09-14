@@ -12,8 +12,8 @@ I am Android developer by passion and graphic designer by hobby. I love programm
 
 As a software engineer I love to solve a problem that make our life easier and well as interactive and fun. 
 
-- 🔭 I’m currently working on Taskmo B2B Gig Marketplace
-- 🌱 I’m currently learning Data structure and Jetpack Compose
+- 🔭 I’m currently working on Euler Motors
+- 🌱 I’m currently learning Jetpack Compose
 - 💬 Ask me about product development, Design etc
 - 📫 How to reach me: bishal.singh.3572@gmail.com or consult@logoredefined.com
 - 📝 [Resume](https://drive.google.com/file/d/13tb2DCbZbSzUHkvgVmWnII54PznBDlM0/view?usp=sharing)
